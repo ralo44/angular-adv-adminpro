@@ -12,7 +12,8 @@ import { ComponentsModule } from '../components/components.module';
 //import { AppRoutingModule } from '../app-routing.module';
 
 import { RouterModule} from '@angular/router'
-import { FormsModule} from '@angular/forms'
+import { FormsModule} from '@angular/forms';
+import { AccountSettingsComponent } from './account-settings/account-settings.component'
 
 
 
@@ -20,15 +21,14 @@ import { FormsModule} from '@angular/forms'
   declarations: [DashboardComponent,
     ProgressComponent,
     Grafica1Component,
-    PagesComponent],
+    PagesComponent,
+    AccountSettingsComponent],
   imports: [
     CommonModule,
     SharedModule,
     RouterModule,
     FormsModule,
     ComponentsModule,
-
-    
     
   ],
   exports:[
@@ -36,6 +36,7 @@ import { FormsModule} from '@angular/forms'
     DashboardComponent,
     ProgressComponent,
     Grafica1Component,
+    AccountSettingsComponent,
   ]
 })
 export class PagesModule { }
