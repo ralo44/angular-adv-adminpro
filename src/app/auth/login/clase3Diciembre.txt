@@ -1,0 +1,103 @@
+Auditoría y supervisión de la calidad en los servicios de salud : Evaluar la propia calidad a traves de la audiproa y la supervisión
+
+Formula de calidad en salud:
++Estructura 25%
++Proceso 75%
+= Resultados(Donabedian)
+
+Fases de l proceso administrativo
+1. Planear y organizar
+2. Hacer
+3. Evaluar
+= Mejorar
+
+Ciclo de Deming
+Actuar
+Planificar
+Verificar 
+Hacer
+
+Enfoques de evaluación de calidad:
+Técnico.Cientifco = Saber del médico y tecnologías (Evidencia)
+Lógico = Eficiencia de información para tomar decisiones (Prioridad entre prevención y curación)
+Óptimo de calidad = El logro de los objetivos con menor costo 
+
+"Con calidad se puede trabajar más, a bajo costo; La calidad se ayuda de la Eficiencia, efectividad y productividad para reducir tiempos"
+
+Atributos de la calidad de la atención de la salud:
+-Oportunidad 
+-Continuidad
+-Suficiencia e integridad
+-Racionalidad logico-cientifica
+-Satisfacción del usuario y el proveedor
+-Efectiviadad
+
+Investigación  OPERATIVA en servicios de salud : "Idenfitificar y solucionar problemas con un metodo cientifico"
+proceso permite IDENTIFICAR problemas relacionados con los programas y servicios de salud y PLANTEAR soluciones a los mismos
+Herramienta para planear, coordinar, capacitar y evaluar
+La Organizacion Panamericana de Salud tiene la metodología basea para auditar  (El estandar) 
+Busca incrementar la eficiencia, eficacia y calidad en la prestación de servicios
+Viene de la teoría GEneral de sistemas = Se compone de insumos y entradas (politicas, normas)=> Procesador o caja negra(procedimientos) =>
+ Productos, salidas, exsumos(Servicios otorgaods) => retroalimentación().
+
+ Morblididad = relación entre personas enfermas con la cantidad de población
+ Mortalidad = Nunmero de defunciones dentro de un lugar y periodo de tiempos
+
+supervisión: proceso persona con Experiencia, Responsable de Dirigir para obtener Resultados; REntabilidad, optimización, productividad. INTERNA
+auditior: EXTERNO A LA EMPRESA, "podría emitir una recomendación" No tiene criterio propio sigue normas.
+Competencias en auditoria general (lo que debe saber un auditor):
+Tecnicas => Planeacion, presupuestales, pplneacion y adminitracion estrategica, programacion lineal, estructuracion de manuales de organización, evaluacion de proyectos,   mercadeo
+reclutamiento , etc
+
+
+Tipos de audiotoria especifica:
+financiera( Contabilidad)
+DEsempeño(Indicadores de planeación/resultado)
+Procesos (Indicadores de productividad)
+
+Certifiación (Se busca obtener)
+Metodología Rastreadora: Trazar la experiencia de un miembro en los procesos deL hospital : Processo =>seguir el curso => Evaluar interrelaciones => Idenfitificar puntos criticos
+Existen rastreadores individuales(Doctor), de sistema (las organizaciones especializadas)
+Selección del paciente: A que nivel se asigna el paciente en relación a su enfermedad
+
+Normas de infraestructura aplicables a establemcimientos de salud
+NOM-005-SSA3-2010: requisitos minimos indispensables.(para clinicas)
+NOM-016-SSA3-2010: requisitos minimos indispensables.(para hospital) + de 24 hrs cama sensable
+NOM-025-SSA3-2010: requisitos minimos indispensables.(para cuidados intensivos) 
+NOM-030-SSA3-2010: requisitos minimos indispensables.(discapacidad)
+NOM-087-SSA1-2010: residuos peligrosos
+
+consulta externa:
+tipo 1 Area interrogatorio y exploracion  NOM-005-SSA3-2010
+tipo 2 +baño
+tipo 3 +ultrasonografia
+
+Areas criticas hospitalarias: Areas de urgencia
+Servicios de urgencias: rampa, triage, baños, limpieza, consultorio, 
+Tococirugía: TRansfer, labor con baño, recuperacion, enfermeria
+unidad quirurgica: Flujo del paciente por areaa negra, personal de salud circulacion blanca
+Central de esterilización y equipos: material esteril por area blanca, area negra para material sucio
+
+
+
+Competencia profesional o calidad científico-técnica. Tener un 
+Efectividad
+Eficiencia
+Accesibilidad
+Adecuación
+Seguridad del pasajero
+
+
+Tener personal profesional que cuente con estudios necesarios para atender al pasajero
+El personal debe cumplir adecuadamente su función
+Cumplir su función con el menor costo posible
+Permitir al pasajero el acceso fácil a las instalaciones
+Adecuar el espacio en el que se desenvuelve el pasajero
+Seguridad del pasaje
+
+Entrenamiento
+CheckList
+Detección de errores
+Reporte e investigacion de errores
+implementar cambios
+Gestión de recursos de la tripulación y cabina estéril
