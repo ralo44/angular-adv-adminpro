@@ -5,7 +5,7 @@ import { UsuarioService } from 'src/app/services/usuario.service';
 import Swal from 'sweetalert2'
 
 
-// fernand2o@gmail.com
+//       fernand2o@gmail.com
 declare const gapi: any;
 
 @Component({
@@ -33,11 +33,10 @@ export class LoginComponent implements OnInit {
 
   login() {//llama al servicio de usuarios
     // console.log(this.loginForms.value);
-    this.usuarioService.login(this.loginForms.value).subscribe(resp => {
+    this.usuarioService.login(this.loginForms.value)
+    .subscribe(resp => {
       if (this.loginForms.get('remember').value) {
-        localStorage.setItem('email', this.loginForms.get('email').value);
-
-        
+        localStorage.setItem('email', this.loginForms.get('email').value);        
       } else {
         localStorage.removeItem('email');
       }
@@ -45,6 +44,8 @@ export class LoginComponent implements OnInit {
       this.router.navigateByUrl('/')// la resp permite entrar
 
     }, (err) => {
+      console.log(err.error.msg);
+
       Swal.fire('Eror', err.error.msg, 'error')
     })
 

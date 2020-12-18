@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { Usuario } from 'src/app/models/usuario.model';
 import { UsuarioService } from 'src/app/services/usuario.service';
 
 declare const gapi:any;
@@ -11,7 +12,15 @@ declare const gapi:any;
 })
 export class HeaderComponent  {
 
-  constructor(private usuarioService:UsuarioService) { }
+   public imgUrl = '';
+  public usuario: Usuario;
+
+  constructor(private usuarioService:UsuarioService) {
+    // this.nameUrl = usuarioService.usuario.getName();
+    // this.emailUrl = usuarioService.usuario.getEmail();
+    this.usuario = usuarioService.usuario;
+
+   }
 
   logout(){
     this.usuarioService.logout();
